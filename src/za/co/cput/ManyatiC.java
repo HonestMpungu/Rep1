@@ -1,5 +1,8 @@
 package za.co.cput;
 
+/**
+ *
+ */
 public class ManyatiC {
 
     public static void main(String[] args) {
